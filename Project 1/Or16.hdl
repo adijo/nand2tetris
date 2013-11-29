@@ -2,7 +2,8 @@
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
 // File name: projects/01/Or16.hdl
-
+// Student name: Aditya Joshi (1adityajoshi@gmail.com)
+
 
 /**
  * 16-bit bitwise Or gate: for i=0..15 out[i] = a[i] or b[i].
