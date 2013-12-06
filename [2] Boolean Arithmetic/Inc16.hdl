@@ -2,7 +2,7 @@
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
 // File name: projects/02/Inc16.hdl
-
+// Student name: Aditya Joshi (1adityajoshi@gmail.com)
 /**
  * 16-bit incrementer: out = in + 1 (arithmetic addition)
  */
