@@ -101,7 +101,7 @@ int main(int argc, char * argv[])
     // Iterate over lines
     char buffer[MAX];
     // PASS 1 - Fill up the symbol table.
-    while(fgets(buffer, sizeof(buffer), fp))
+  while(fgets(buffer, sizeof(buffer), fp))
     {
         if(isEmptyLine(buffer) != 1)
         {
@@ -126,24 +126,9 @@ int main(int argc, char * argv[])
             
             }
             
-            else if(type == 3)
-            {
+           // Don't need to do anything for instructions of type 3,4.
             
-                // C instruction.
-            }
-            
-            else if(type == 4)
-            {
-            
-            }
-             
-        
-        
-        
-        
-        
-        
-        }
+      }
     }
     
    print_symbol_table();
