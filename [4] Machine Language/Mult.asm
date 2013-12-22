@@ -11,11 +11,14 @@
 
 // Assign memory in RAM to store the sum
 
+//Enter the first number to be multiplied here. Currently set to 6.
 @6
 D = A
 @0
 M = D
 
+
+//Enter the second number to be multiplied here. Currently set to 7.
 @7
 D = A
 @1
